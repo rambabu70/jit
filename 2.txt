@@ -1,4 +1,9 @@
 this is 2.txt
 2nd line added
 3rd line added
+<<<<<<< HEAD
 4th line added add1
+=======
+4th line added
+5th line added
+>>>>>>> ram
